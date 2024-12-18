@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "oled.h": "c",
+        "open.h": "c",
+        "cstdlib": "c",
+        "xutility": "c",
+        "util.h": "c",
+        "stm32f10x.h": "c",
+        "myrtc.h": "c",
+        "mpu6050.h": "c"
+    }
+}
